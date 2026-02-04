@@ -2,3 +2,5 @@ streamlit
 pandas
 llama-stack-client>=0.0.55
 streamlit-option-menu
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
